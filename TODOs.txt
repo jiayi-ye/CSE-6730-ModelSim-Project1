@@ -1,0 +1,12 @@
+1) Finish basic CA model - Will
+
+2) Finish CA model with wind from paper - Mike
+
+3) Finsih CA model with material types - Jiayi 
+
+4) Finish CA model with terrain - 
+
+
+Also...
+
+- How to measure accuracy of model?

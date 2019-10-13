@@ -1,0 +1,5 @@
+Wang Xuehua, Liu Chang, Liu Jiaqi, Qin Xuezhi, Wang Ning and Zhou Wenjun, "A cellular automata model for forest fire spreading simulation," 2016 IEEE Symposium Series on Computational Intelligence (SSCI), Athens, 2016, pp. 1-6.
+doi: 10.1109/SSCI.2016.7849971
+keywords: {cellular automata;digital simulation;emergency management;fires;cellular automata model;forest fire spreading simulation;spreading pattern;simulation capacity;combustible materials;CA forest fire forecast system;Matlab development platform;Mathematical model;Temperature;Fires;Humidity;Wind speed;Moisture;Automata;natural disaster;spread of forest fire;cellular automata;influence factors;rule expression},
+URL: http://ieeexplore.ieee.org/stamp/stamp.jsp?tp=&arnumber=7849971&isnumber=7849361
+
